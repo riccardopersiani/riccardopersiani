@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Welcome to Polares Web3
 
-<!--
-**riccardopersiani/riccardopersiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Riccardo Persiani**, the creator behind [Polares Web3](https://www.polaresweb3.xyz) — a project dedicated to building secure and minimal Web3 infrastructure.
 
-Here are some ideas to get you started:
+### 🧠 What is Polares Web3?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A resource hub and tech lab focused on:
+
+- 🧱 Smart contract development
+- 🔐 Protocol architecture & audits
+- ⚙️ Validator incentive design
+- 🧬 Decentralized system philosophy
+
+### 🎓 Learn & Build
+
+On [**polaresweb3.xyz**](https://www.polaresweb3.xyz), you'll find:
+- 🧰 Solidity coding tutorials
+- 🕵️‍♂️ Security best practices
+- 💬 Reflections on decentralization
+- 🎥 [YouTube Channel](https://www.youtube.com/@Polaresweb3) with free lessons
+
+### 📫 Get in touch
+- Website: [polaresweb3.xyz](https://www.polaresweb3.xyz)
+- PGP: [plr_pubkey.asc](https://www.polaresweb3.xyz/plr_pubkey.asc)
+
+---
+
+> _No fluff. No hype. Just clean code and clear thinking._
